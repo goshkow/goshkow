@@ -20,6 +20,7 @@
 - люблю `Docker`, `PM2`, `Linux`, `macOS`, `Windows`, `VS Code`, `PyCharm`
 - в открытых репозиториях держу курс на свободный и нормальный интернет
 
+---
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=wM3sexXQECw">
