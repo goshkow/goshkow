@@ -21,15 +21,6 @@
 - в открытых репозиториях держу курс на свободный и нормальный интернет
 
 
-## Статистика
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20repos-7-111827?style=for-the-badge" alt="Public repos" />
-  <img src="https://img.shields.io/badge/Followers-12-111827?style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/badge/Following-0-111827?style=for-the-badge" alt="Following" />
-  <img src="https://img.shields.io/badge/Stars-2-111827?style=for-the-badge" alt="Stars" />
-</p>
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=wM3sexXQECw">
     <img src="https://img.youtube.com/vi/wM3sexXQECw/hqdefault.jpg" alt="Он нам нахер не нужен, интернет ваш" />
