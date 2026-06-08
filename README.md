@@ -32,10 +32,6 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=wM3sexXQECw">
-    <img src="https://img.youtube.com/vi/wM3sexXQECw/maxresdefault.jpg" alt="Он нам нахер не нужен, интернет ваш" />
+    <img src="https://img.youtube.com/vi/wM3sexXQECw/hqdefault.jpg" alt="Он нам нахер не нужен, интернет ваш" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=wM3sexXQECw">Смотреть мем</a>
 </p>
