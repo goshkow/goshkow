@@ -20,38 +20,6 @@
 - люблю `Docker`, `PM2`, `Linux`, `macOS`, `Windows`, `VS Code`, `PyCharm`
 - в открытых репозиториях держу курс на свободный и нормальный интернет
 
-## Чем занимаюсь
-
-Мне нравится делать софт, который:
-- выглядит просто
-- работает быстро
-- не душит пользователя
-- и даёт реальную свободу пользоваться технологиями так, как удобно
-
-Сейчас мой фокус в основном такой:
-- кроссплатформенные приложения
-- утилиты с нормальным UI
-- AI/LLM-инструменты
-- локальные модели и нейросетевые решения
-- серверная часть и автоматизация
-- open-source софт, который реально хочется использовать
-
-## AI и нейросети
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-0F172A?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks" />
-  <img src="https://img.shields.io/badge/Local%20AI-2D2D2D?style=for-the-badge&logo=ollama&logoColor=white" alt="Local AI" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFBD00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
-
-Я работаю с:
-- локальными LLM
-- AI-ассистентами
-- нейросетевыми интеграциями
-- серверной обвязкой для AI-решений
-- удобными интерфейсами вокруг сложных технологий
-
 ## Мой стек
 
 <p align="center">
@@ -80,28 +48,6 @@
   <img src="https://img.shields.io/badge/CLI-1F2937?style=for-the-badge" alt="CLI" />
 </p>
 
-## Что уже делаю
-
-- `Zapret-Hub` — Windows-приложение для удобного управления `zapret` и `tg-ws-proxy`
-- `Zapret-Hub-Mac` — macOS-приложение для управления `ByeDPI` / `SpoofDPI` и `TG WS Proxy`
-- `AddHeads` — Paper/Purpur-плагин для голов в чате, табе и через API
-- `PointCoordinates` — Minecraft-плагин для координат, точек, поиска и телепортации
-- `AdaptiveDock` — macOS-утилита для более умного Dock-поведения
-
-## Что мне важно
-
-- открытый исходный код
-- уважение к пользователю
-- нормальный UX без лишней магии
-- свобода пользоваться технологиями так, как человеку удобно
-- продукты, которые не стыдно показывать и приятно поддерживать
-
-## Ачивки и факты
-
-- `2x Pull Shark`
-- `2x YOLO`
-- несколько публичных проектов с разным стеком и разной задачей
-- опыт в утилитах, desktop-софте, серверных плагинах и AI-решениях
 
 ## Статистика
 
@@ -119,8 +65,6 @@
 Если хочется связаться:
 - сайт: [goshkowdigital.ru](https://goshkowdigital.ru/)
 - Telegram: [@goshkowdigital](https://t.me/goshkowdigital)
-
-## Мемная концовка
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=wM3sexXQECw">
